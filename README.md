@@ -87,3 +87,7 @@ Uses Hugging Face models for natural language generation
 **Philosophical:** Deep, contemplative insights with universal principles
 
 **Devotional:** Heart-centered responses emphasizing love and surrender
+
+### !! ChatBot may takes time while initialization
+
+### ⭐ If this project helped you, please give it a star!
