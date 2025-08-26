@@ -88,6 +88,11 @@ Uses Hugging Face models for natural language generation
 
 **Devotional:** Heart-centered responses emphasizing love and surrender
 
-### !! ChatBot may takes time while initialization
+
 
 ### ⭐ If this project helped you, please give it a star!
+
+### NOTE:
+Use "GitaText - Data_for_Gita_ChatBot_Cleaned" file or similarly formated .csv file
+
+!! ChatBot may takes time while initialization !! ...( Will improve)
