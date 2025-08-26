@@ -494,7 +494,7 @@ def main():
                     st.warning("No relevant verses found. Please try rephrasing your question.")
         
         # Sample questions
-        '''with st.expander("💡 Sample Questions", expanded=False):
+        with st.expander("💡 Sample Questions", expanded=False):
             sample_questions = [
                 "What is dharma according to the Bhagavad Gita?",
                 "How should one perform karma yoga?",
@@ -513,7 +513,7 @@ def main():
             
             if 'sample_question' in st.session_state:
                 question = st.session_state.sample_question
-                del st.session_state.sample_question'''
+                del st.session_state.sample_question
     
     else:
         st.info("👈 Please configure and initialize the ChatBot using the sidebar")
@@ -543,4 +543,5 @@ def main():
             st.dataframe(sample_data)
 
 if __name__ == "__main__":
+
     main()
