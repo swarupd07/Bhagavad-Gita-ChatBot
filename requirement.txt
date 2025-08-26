@@ -1,0 +1,15 @@
+
+pandas
+numpy
+nltk
+python-dotenv
+sentence-transformers
+langchain
+langchain-huggingface
+langchain-chroma
+chromadb
+huggingface-hub
+transformers
+torch
+scikit-learn
+streamlit
